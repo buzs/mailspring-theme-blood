@@ -3,7 +3,7 @@
 The Mailspring Theme Blood is a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
 
-<img src="https://raw.githubusercontent.com/buzs/mailspring-theme-blood/master/screenshot/custom-theme.png" />
+<img src="https://raw.githubusercontent.com/buzs/mailspring-theme-blood/master/screenshot/new-custom-theme.png" />
 
 ## Getting Started
 
